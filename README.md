@@ -1,4 +1,13 @@
 ## Hi there 👋
+My name is Ayumu.Inagaki😀
+
+Please call me "Ayu" or "Ayumu"😉
+
+I'm from Sapporo, and I guraduated Sapporo_Nishi high school🏫
+
+I like playing games🎮, sleeping much🛏, and watching YouTube📺
+
+Nice to meet you 👋
 
 <!--
 **AreyouAyu1930/AreyouAyu1930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
